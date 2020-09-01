@@ -1,0 +1,90 @@
+@font-face {
+    font-family: 'Visuelt Pro';
+    src: url('VisueltPro-Black.woff2') format('woff2'),
+        url('VisueltPro-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Visuelt Pro';
+    src: url('VisueltPro-BlackItalic.woff2') format('woff2'),
+        url('VisueltPro-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Visuelt Pro';
+    src: url('VisueltPro-Bold.woff2') format('woff2'),
+        url('VisueltPro-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Visuelt Pro';
+    src: url('VisueltPro-BoldItalic.woff2') format('woff2'),
+        url('VisueltPro-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Visuelt Pro';
+    src: url('VisueltPro-Light.woff2') format('woff2'),
+        url('VisueltPro-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Visuelt Pro';
+    src: url('VisueltPro-Italic.woff2') format('woff2'),
+        url('VisueltPro-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Visuelt Pro';
+    src: url('VisueltPro-LightItalic.woff2') format('woff2'),
+        url('VisueltPro-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Visuelt Pro';
+    src: url('VisueltPro-Medium.woff2') format('woff2'),
+        url('VisueltPro-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Visuelt Pro';
+    src: url('VisueltPro-Regular.woff2') format('woff2'),
+        url('VisueltPro-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Visuelt Pro';
+    src: url('VisueltPro-MediumItalic.woff2') format('woff2'),
+        url('VisueltPro-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
